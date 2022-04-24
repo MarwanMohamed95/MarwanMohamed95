@@ -7,13 +7,13 @@
 
 - 📝 I graduated from **Faculty of Engineering, Alexandria University, Electrical Department**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarwanMohamed95?tab=repositories](https://github.com/MarwanMohamed95?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/MarwanMohamed95?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Deep learning, Computer Vision**
 
 - 📫 How to reach me **marwan.abdelsalam.1995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
