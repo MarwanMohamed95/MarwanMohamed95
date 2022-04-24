@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **marwan.abdelsalam.1995@gmail.com**
 
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
