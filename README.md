@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Mohamed Abdelsalam</h1>
-<h3 align="center">A passionate Artificial Intelligence, Machine Learning and Data Science</h3>
+<h3 align="center"> Passionate in Artificial Intelligence, Machine Learning and Data Science</h3>
 
 - 🔭 I’m currently Student at **Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program**
 
