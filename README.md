@@ -1,31 +1,36 @@
-<h1 align="center">I'm Marwan Mohamed Abdelsalam</h1>
-<h3 align="center"> Passionate in Artificial Intelligence, Machine Learning and Data Science</h3>
+<h1 align="center">Marwan Mohamed Abdelsalam</h1>
+<h3 align="center">Passionate about Artificial Intelligence, Machine Learning, and Data Science</h3>
 
-- 🔭 I’m currently Student at **Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program**
-
-- 👯 I’m Studying **Computer Vision and Deep Learning**
-
-- 📝 I graduated from **Faculty of Engineering, Alexandria University, Electrical Department**
-
-- 👨‍💻 All of my projects are available at [My Repository](https://github.com/MarwanMohamed95?tab=repositories)
-
-- 💬 Ask me about **Machine Learning, Deep learning, Computer Vision**
-
-- 📫 How to reach me **marwan.abdelsalam.1995@gmail.com**
-
-- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1BZRZXkaVsw66hEkzyo1jU07Cg-pvVKIu/view?usp=sharing)
+- 🔭 I'm currently a student at **Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program**
+- 👯 I'm studying **Computer Vision and Deep Learning**
+- 📝 I graduated from the **Faculty of Engineering, Alexandria University**, majoring in Electrical Engineering
+- 👨‍💻 You can find my projects on [My GitHub Repository](https://github.com/MarwanMohamed95?tab=repositories)
+- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Computer Vision**
+- 📫 You can reach me at **marwan.abdelsalam.1995@gmail.com**
+- 📄 Check out my experiences on [My Resume](https://drive.google.com/file/d/1BZRZXkaVsw66hEkzyo1jU07Cg-pvVKIu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marwanabdelsalam95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwanabdelsalam95/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/marwanabdelsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marwanabdelsalam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/marwan.mohamed.1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/marwan.mohamed.1995/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marwanabdelsalam95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/marwanabdelsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://www.facebook.com/marwan.mohamed.1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanmohamed95&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmohamed95" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MarwanMohamed95&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="marwanmohamed95" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MarwanMohamed95&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Marwan's GitHub Streak" /></p>
