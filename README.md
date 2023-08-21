@@ -1,11 +1,11 @@
 <h1 align="center">Marwan Mohamed Abdelsalam</h1>
 <h3 align="center">Passionate about Artificial Intelligence, Machine Learning, and Data Science</h3>
 
-- 🔭 I'm currently a student at **Information Technology Institute (ITI) AI and Machine Learning Track - 9 Month Program**
-- 👯 I'm studying **Computer Vision and Deep Learning**
+- 👨‍💻 I'm currently a Machine Learning Engineer at Flothers
+- 🔭 I'm  studied AI and Machine Learning at **Information Technology Institute (ITI) - 9 Month Postgraduate Diploma**
 - 📝 I graduated from the **Faculty of Engineering, Alexandria University**, majoring in Electrical Engineering
 - 👨‍💻 You can find my projects on [My GitHub Repository](https://github.com/MarwanMohamed95?tab=repositories)
-- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Computer Vision**
+- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Computer Vision and NLP**
 - 📫 You can reach me at **marwan.abdelsalam.1995@gmail.com**
 - 📄 Check out my experiences on [My Resume](https://drive.google.com/file/d/1BZRZXkaVsw66hEkzyo1jU07Cg-pvVKIu/view?usp=sharing)
 
