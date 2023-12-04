@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Artificial Intelligence, Machine Learning, and Data Science</h3>
 
 - 👨‍💻 I'm currently a Machine Learning Engineer at Flothers
-- 🔭 I'm  studied AI and Machine Learning at **Information Technology Institute (ITI) - 9 Month Postgraduate Diploma**
+- 🔭 I studied AI and Machine Learning at **Information Technology Institute (ITI) - 9 Month Postgraduate Diploma**
 - 📝 I graduated from the **Faculty of Engineering, Alexandria University**, majoring in Electrical Engineering
 - 👨‍💻 You can find my projects on [My GitHub Repository](https://github.com/MarwanMohamed95?tab=repositories)
 - 💬 Feel free to ask me about **Machine Learning, Deep Learning, Computer Vision and NLP**
