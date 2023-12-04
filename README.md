@@ -1,5 +1,5 @@
 <h1 align="center">Marwan Mohamed Abd-Elsalam</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h2 align="center">Machine Learning Engineer</h2>
 
 - 👨‍💻 I'm currently a Machine Learning Engineer at Flothers
 - 🔭 I studied AI and Machine Learning at **Information Technology Institute (ITI) - 9 Month Postgraduate Diploma**
