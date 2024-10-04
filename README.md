@@ -1,7 +1,7 @@
 <h1 align="center">Marwan Mohamed Abd-Elsalam</h1>
 <h2 align="center">Machine Learning Engineer</h2>
 
-- 👨‍💻 I'm currently a Machine Learning Engineer at Flothers
+- 👨‍💻 I'm currently a Machine Learning Engineer at Valify Solutions
 - 🔭 I studied AI and Machine Learning at **Information Technology Institute (ITI) - 9 Month Postgraduate Diploma**
 - 📝 I graduated from the **Faculty of Engineering, Alexandria University**, majoring in Electrical Engineering
 - 👨‍💻 You can find my projects on [My GitHub Repository](https://github.com/MarwanMohamed95?tab=repositories)
